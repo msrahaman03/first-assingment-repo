@@ -162,3 +162,51 @@ footer{
 /*footer section end*/
 
 
+/* card section start*/
+
+.card{
+        max-width: 1140px;
+       
+        margin: 0 auto;
+
+        margin-bottom: 100px;
+}
+
+.cards{
+        width: 350px;
+        border-radius: 10px;
+        float: left;
+        text-align: center;
+        margin:5px;
+        background-color: beige;
+        padding: 10px;
+        
+
+}
+/* care section end*/
+
+/*button style start*/
+
+.efect{
+        max-width: 1140px;
+        margin: 0 auto;
+        margin-top: 100px;
+}
+
+.click-btn{
+          width: 600px;
+          color:white;
+          background-color: blue;
+
+}
+
+button:hover{
+
+          background-color: rgb(75, 75, 163);
+          color: red;
+
+}
+
+/*button style end*/
+
+
