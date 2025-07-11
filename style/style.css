@@ -94,4 +94,36 @@ main{
 
 /* action style end */
 
+/* productive user section style start */
+.user-info{
+
+          text-align: center;
+          background-color:rgb(167, 163, 159);
+          border-radius: 10px;
+          
+
+}
+.user{
+          color: blue;
+          font-size: 90px;
+}
+.div-2{
+          display: flex;
+          justify-content: space-around;
+}
+div-2 h3{
+        margin: 0;
+}
+
+
+
+.user-title{
+          padding-top: 100px;
+         
+}
+
+
+/* productive user section style end */
+
+
 
