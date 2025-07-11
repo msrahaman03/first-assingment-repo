@@ -125,5 +125,16 @@ div-2 h3{
 
 /* productive user section style end */
 
+/* productive user section style end */
+
+/* form style start */
+
+.form-class{
+          margin-top: 130px;
+          margin-bottom: 130px;
+          display: flex;
+          justify-content: space-between;
+}
+/* form style end */
 
 
